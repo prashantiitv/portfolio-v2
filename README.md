@@ -5,7 +5,7 @@
 📙 Simple UI Design\
 📙 One Page Website\
 📙 Styled with Space animations\
-📙 Simple in editing\
+📙 Simple in editing
 
 To view a demo example, [Click Here](http://github.com/prashantiitv/portfolio-v2/)
 
