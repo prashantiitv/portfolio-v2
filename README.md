@@ -17,7 +17,7 @@ To view a demo example, [Click Here](http://github.com/prashantiitv/portfolio-v2
  OR 
 ```
 # Clone this repository
-$ git clone https://github.com/anshul1507/animated-portfolio
+$ git clone https://github.com/prashantiitv/portfolio-v2.git
 
 # Go into the repository 
 $ cd animated-portfolio
