@@ -7,7 +7,7 @@
 📙 Styled with Space animations\
 📙 Simple in editing
 
-To view a demo example, [Click Here](http://github.com/prashantiitv/portfolio-v2/)
+To view a demo example, [Click Here](https://prashantiitv.github.io/portfolio-v2/)
 
 ---
 ### Getting Started 🚀
