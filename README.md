@@ -10,21 +10,24 @@
 To view a demo example, [Click Here](https://prashantiitv.github.io/portfolio-v2/)
 
 ---
+
 ### Getting Started 🚀
 
-```Anyone can use it by fork, clone and edit its content in index.html file.```
+`Anyone can use it by fork, clone and edit its content in index.html file.`
 
- OR 
+OR
+
 ```
 # Clone this repository
 $ git clone https://github.com/prashantiitv/portfolio-v2.git
 
-# Go into the repository 
-$ cd animated-portfolio
+# Go into the repository
+$ cd portfolio-v2
 
 # Remove current origin repository
 $ git remote remove origin
 ```
 
 ---
-#### Shape with ❤ by @prashantiitv. 
+
+#### Shape with ❤ by @prashantiitv.
